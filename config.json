@@ -1,0 +1,9 @@
+{
+    "params":
+    {
+        "user":"admin",
+        "password":"admin123",
+        "gmail-user":"demodbms@gmail.com",
+        "gmail-password":"Dbmsdemo123"
+    }
+}
